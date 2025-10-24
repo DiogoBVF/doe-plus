@@ -1,0 +1,16 @@
+doe-plus/
+│
+├── docs/
+│   ├── requisitos_funcionais.md
+│   ├── requisitos_nao_funcionais.md
+│   ├── regras_de_negocio.md
+│   ├── diagrama_caso_uso.png
+│   └── diagrama_classes.png
+│
+├── src/
+│   ├── app.py
+│   ├── models.py
+│   └── database.py
+│
+├── README.md
+└── requirements.txt
